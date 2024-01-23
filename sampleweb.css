@@ -1,0 +1,39 @@
+@import url(https://fonts.googleapis.com/css2?family=Poppins%3Awght%40400%3B500&display=swap%27%29%3B);
+
+*
+{
+  margin: 0;
+  padding: 0;
+}
+body
+{
+  font-family: 'Poppins', sans-serif;
+  background: #e2e2e2;
+}
+
+.bg-drkblue
+{
+  background-color: rgba(3, 37, 76, 0.87);
+}
+
+.bg-drkblue2
+{
+  background-color: rgb(21, 58, 100);
+}
+.text-color1
+{
+  color: rgb(21, 58, 100);
+}
+
+.margchat
+{
+  margin-top: .50rem;
+  margin-bottom: .50rem;
+}
+
+.pagetitle h1 {
+  font-size: 22px;
+  margin-bottom: 0;
+  font-weight: 500;
+  color: rgb(21, 58, 100);
+}
